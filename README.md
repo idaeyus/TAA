@@ -10,5 +10,5 @@ The Anything App works by accessing the Groq Compound Beta model for generating 
 
 ##### Basic AI details :
 ###### 1. Provider : Groq
-###### 2. Model : compound-beta
+###### 2. Model : Compound Beta
 ###### 3. Model ID : <i>compound-beta</i>
