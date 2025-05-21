@@ -7,7 +7,8 @@ The Anything App is a website which transform into any basic tool / utility usin
 The Anything App works by accessing the Groq Compound Beta model for generating the code via the Groq API . 
 
 <b>⚠️ : It is highly recommended to first clone this repository and input your Groq API key in a locally run version instead of using the actual Website (https://idaeyus.github.io/TAA/) 
-##### Some details :
+
+##### Basic AI details :
 ###### 1. Provider : Groq
 ###### 2. Model : compound-beta
 ###### 3. Model ID : <i>compound-beta</i>
